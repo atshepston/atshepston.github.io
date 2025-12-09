@@ -49,9 +49,9 @@ ServiceSignal is a app aimed at making keeping track of vehicle maintenance easi
 
 ## TinyTemp
 
-[LayoutImage](/images/tinyTempLayout.png)
+![LayoutImage](images/tinyTempLayout.png)
 <video width="600" controls>
-  <source src=“videos/tinyTempDemo.mp4" type="video/mp4">
+  <source src="videos/tinyTempDemo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
