@@ -34,7 +34,7 @@ took on an arbitrary graph.
 **Tech**: Python, Tensorflow
 **Link**: [Github Repo](https://github.com/atshepston/ECE535-Smart-Doorbell)
 
-Smart doorbells can sometimes depend heavily on cloud infrastructure, which can introduce latency, privacy concerns, and higher costs. By deploying ML systems on a Raspberry Pi in real-world settings we can achieve real-time detection, address privacy concerns and, and lower costs.
+This Edge-ML Smart Doorbell is a custom-designed system that leverages machine learning on-device for real-time detection, eliminating reliance on cloud-based services. Built on a Raspberry Pi and powered by a custom TensorFlow Lite model, this doorbell offers enhanced privacy, low-latency detection, and a cost-efficient alternative to traditional smart doorbell systems.
 
 ---
 
