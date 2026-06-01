@@ -14,7 +14,7 @@ new tools and concepts. Eager to get real-world experience in a group setting an
 ## Flow State
 
 **Tech**: Python, Swift, C++
-![FlowStateImage](images/SDPposter.png)
+![FlowStateImage](images/SDPPoster.png)
 
 FlowState is a low-cost, wireless wearable system designed to help sprinters monitor performance and health metrics without relying on expensive camera-based systems. The system uses multiple lightweight wearable units placed on the body to collect motion data through IMUs, while a central chest-mounted unit measures heart rate using a PPG sensor. Data is transmitted over a local Wi-Fi network to a mobile app, where it is processed into clear, easy-to-understand running metrics such as cadence, stride length, contact time, duty factor, shock, foot strike, and heart rate.
 
